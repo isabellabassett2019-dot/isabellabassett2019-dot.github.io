@@ -1,0 +1,20 @@
+{ 
+    "title": "Project Whale Shark",
+    "url": "http://localhost:4000/",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/78198/medium.JPG", 
+    "description": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology.",
+    "publisher": { 
+        "name": "Center for Digital Inquiry and Learning (CDIL)", 
+        "url": "https://cdil.lib.uidaho.edu/", 
+        "logo": "https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png" 
+    },
+    "date_start": "1828",
+    "date_end": "2026",
+    "objects": {
+        null: "0"
+        
+    },
+    "data": "http://localhost:4000/assets/data/datapackage.json",
+    "last_build_date": "2026-11-11"
+}
+
